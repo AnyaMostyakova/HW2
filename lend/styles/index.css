@@ -86,7 +86,9 @@ header{
     padding: 87px 398px 79px 398px;
 }
 .bannerImage{
-    background-image: url("image/banner.svg");
+    display: flex;
+    padding: 52px;
+    flex-direction: column;
     height:494px;
     width: 1336px;
     padding: 52px;
